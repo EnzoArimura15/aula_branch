@@ -1,0 +1,9 @@
+.title-enzo{
+    color: red;
+    font-weight: bold;
+    font-size: 48px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
